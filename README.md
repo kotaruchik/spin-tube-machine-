@@ -10,4 +10,4 @@ installation commands-
 
 5)pip install RPi.GPIO
 
-for rasberypi use sudo pip3 install.
+for  Raspberrypi3 use sudo pip3 install.
